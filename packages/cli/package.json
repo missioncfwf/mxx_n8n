@@ -20,7 +20,6 @@
     "@n8n/workflow": "1.102.0",
     "n8n-editor-ui": "1.102.0",
     "n8n-nodes-base": "1.102.0",
-    "n8n-workflow": "1.102.0",
     "dotenv": "^8.6.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^5.0.0",
